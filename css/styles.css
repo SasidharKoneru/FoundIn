@@ -1,0 +1,190 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f3f6;
+}
+.header{
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+}
+
+h1 {
+    color: #4CAF50;
+    margin: 0;
+}
+
+h2, h3, h4 {
+    color: #333666;
+    margin: 0;
+}
+
+/* Header */
+.header {
+    background-color: #232F3E;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: #4CAF50;
+    border-radius: 5px;
+}
+
+/* Job Listings Section */
+.job-listings {
+    background-color: #ffffff;
+    padding: 40px 20px;
+    margin-top: 150px;
+}
+
+.job-listings h2 {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.job-card {
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    text-align: left;
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.job-card:hover {
+    transform: translateY(-5px);
+}
+
+.job-card h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.job-card p {
+    font-size: 16px;
+    font-weight: bold;
+    color: #555;
+}
+
+.job-card p .h{
+    font-size: 16px;
+    color: red;
+}
+
+.job-card .apply-btn {
+    display: block;
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.job-card .apply-btn:hover {
+    background-color: #45a049;
+}
+
+/* Application Status Section */
+.application-status {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    text-align: center;
+    margin-top: 150px;
+    /* margin-bottom: 10px; */
+}
+
+.application-status h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.status-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.status-table th, .status-table td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.status-table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.status-table td {
+    background-color: white;
+}
+
+/* Generate Report Section */
+.generate-report {
+    text-align: center;
+    padding: 20px;
+    margin-top: 100px;
+    /* bottom: 0px; */
+}
+
+.generate-report button {
+    padding: 12px 25px;
+    background-color: #232F3E;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.generate-report button:hover {
+    background-color: #45a049;
+}
+
+/* Footer */
+.footer {
+    background-color: #232F3E;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer a {
+    color: #4CAF50;
+    font-weight: bold;
+    text-decoration: none;
+}

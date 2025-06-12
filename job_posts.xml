@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+    <job>
+        <job_id>101</job_id>
+        <recruiter_id>1</recruiter_id>
+        <job_title>Software Engineer</job_title>
+        <job_description>Develop and maintain software applications using Java and Python.</job_description>
+        <salary_range>50000-70000</salary_range>
+        <company_location>New York, NY</company_location>
+        <company_name>TechCorp</company_name>
+        <company_website>https://www.techcorp.com</company_website>
+        <job_type>Full-time</job_type>
+        <job_category>Engineering</job_category>
+        <required_experience>3</required_experience>
+        <education_level>Bachelor's Degree</education_level>
+        <post_date>2025-01-01</post_date>
+        <expiration_date>2025-03-01</expiration_date>
+        <status>Open</status>
+    </job>
+
+    <job>
+        <job_id>102</job_id>
+        <recruiter_id>2</recruiter_id>
+        <job_title>Marketing Manager</job_title>
+        <job_description>Lead the marketing team in executing campaigns, analyzing market trends, and increasing brand visibility.</job_description>
+        <salary_range>60000-90000</salary_range>
+        <company_location>San Francisco, CA</company_location>
+        <company_name>MarketMinds</company_name>
+        <company_website>https://www.marketminds.com</company_website>
+        <job_type>Part-time</job_type>
+        <job_category>Marketing</job_category>
+        <required_experience>5</required_experience>
+        <education_level>Master's Degree</education_level>
+        <post_date>2025-01-05</post_date>
+        <expiration_date>2025-02-15</expiration_date>
+        <status>Open</status>
+    </job>
+
+    <job>
+        <job_id>103</job_id>
+        <recruiter_id>3</recruiter_id>
+        <job_title>Product Designer</job_title>
+        <job_description>Work on designing new products and improving existing products based on user feedback and market needs.</job_description>
+        <salary_range>45000-65000</salary_range>
+        <company_location>Los Angeles, CA</company_location>
+        <company_name>DesignWorks</company_name>
+        <company_website>https://www.designworks.com</company_website>
+        <job_type>Contract</job_type>
+        <job_category>Design</job_category>
+        <required_experience>4</required_experience>
+        <education_level>PhD</education_level>
+        <post_date>2025-01-10</post_date>
+        <expiration_date>2025-04-01</expiration_date>
+        <status>Closed</status>
+    </job>
+</jobs>

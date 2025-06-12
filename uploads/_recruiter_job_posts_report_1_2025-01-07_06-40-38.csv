@@ -1,0 +1,14 @@
+
+"Job Id","Job Title","Total Applicants","Action Pending","Reviewed Applicants","Interviewed Applicatants","Accepted Applicants","Rejected Applicatants"
+2,"Data Analyst",1,0,0,1,0,0
+3,"Graphic Designer",1,1,0,0,0,0
+4,"Project Manager",1,1,0,0,0,0
+5,"Marketing Specialist",1,0,0,0,1,0
+6,"Java Developer",1,1,0,0,0,0
+8,"Java Back-End Developer Trainee",2,1,1,0,0,0
+12,"MERN Stack Developer ",1,1,0,0,0,0
+13,"MERN Stack Developer ",1,1,0,0,0,0
+15,"Data Analyst trainee",1,0,0,0,1,0
+16,"AI Engineer",1,1,0,0,0,0
+17,"AI Engineer",1,1,0,0,0,0
+86,"Project Manager",1,1,0,0,0,0
