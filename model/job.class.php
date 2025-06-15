@@ -152,7 +152,7 @@ class Job {
             LEFT JOIN 
                 job_applications ja ON j.job_id = ja.job_id AND ja.jobseeker_id = :jobseeker_id
             WHERE 
-                j.expiration_date >= CURDATE() AND ja.jobseeker_id IS NULL";
+		j.expiration_date >= CURDATE() AND ja.jobseeker_id IS NULL";
 
             $stmt = $db->prepare($query);
             $stmt->bindparam(':jobseeker_id', $jobseeker_id);
