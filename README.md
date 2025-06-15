@@ -42,3 +42,61 @@ Built-in mechanisms to prevent common threats like SQL injection and session hij
 1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/foundin.git
+
+--- 
+## 📸 Screenshots
+
+### 🏠 Welcome Page
+![Home Page](assests/screenshots/Welcom_page.jpg)
+
+### 🔐 Login Pages
+**Recruiter Login**
+![Login Page](assests/screenshots/Recruiter_login_page.jpg)
+
+
+**Job Seeker Login**
+![Login Page](assests/screenshots/Jobseeker_login_page.jpg)
+
+### 📊 Dashboards
+**Recruiter**
+- Home
+![Dashboard](assests/screenshots/Recruiter_Home_page.jpg)
+
+- Job Posting
+![Dashboard](assests/screenshots/Recruiter_job_post_1.jpg)
+
+
+![Dashboard](assests/screenshots/Recruiter_job_post_2.jpg)
+
+- Veiw Posted Jobs
+
+![Dashboard](assests/screenshots/Recruiter_posted_jobs.jpg)
+
+- Track Applications
+
+![Dashboard](assests/screenshots/Recruiter_track_applications.jpg)
+
+- Charts
+
+![Dashboard](assests/screenshots/Recruiter_charts.jpg)
+
+
+**Job Seeker**
+- Dashboard
+
+![Dashboard](assests/screenshots/Jobseeker_joblisting.jpg)
+
+- Track Applications
+
+![Dashboard](assests/screenshots/Jobseeker_track_applications.jpg)
+
+
+
+
+
+
+
+
+
+
+
